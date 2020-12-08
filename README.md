@@ -5,4 +5,4 @@ Klipper config for #Sapphire plus with stock stepper motors and SKR 1.4 turbo + 
 This is a some kind of diary stuff that I will update time to time, will add some other infos. Hope it will help someone
 
 
-https://github.com/KevinOConnor/klipper for original owner
+https://github.com/KevinOConnor/klipper for original owner and mine was forked from https://github.com/yanfali/sapphire_klipper_config
